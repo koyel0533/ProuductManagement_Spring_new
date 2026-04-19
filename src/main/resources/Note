@@ -10,5 +10,6 @@ and ai engine will search prompt related data from the database of the project a
 the prompt maybe:-suggest me budget laptop under 60000.00
 then ollama/Groq will search the spring
 ----------------------
-#it can not be testing jpa test
+#You want to test with real DB data
+You are debugging JPA queries or transactions
 spring.test.database.replace=NONE
