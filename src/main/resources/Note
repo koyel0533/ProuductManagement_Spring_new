@@ -1,0 +1,14 @@
+product management system----------------->
+1.oracle db
+2.Junit Testing of Repository Layer
+3.crud
+4.procedure call from oracle
+5.ai integration
+------------------------------
+user will generate a prompt
+and ai engine will search prompt related data from the database of the project and if its present then it will suggest the user can purchase it.
+the prompt maybe:-suggest me budget laptop under 60000.00
+then ollama/Groq will search the spring
+----------------------
+#it can not be testing jpa test
+spring.test.database.replace=NONE
